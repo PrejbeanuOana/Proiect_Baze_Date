@@ -1,0 +1,46 @@
+C:\Users\redxvenom\source\repos\Orar\Orar\bin\Debug\Orar.exe.config
+C:\Users\redxvenom\source\repos\Orar\Orar\bin\Debug\Orar.exe
+C:\Users\redxvenom\source\repos\Orar\Orar\bin\Debug\Orar.pdb
+C:\Users\redxvenom\source\repos\Orar\Orar\obj\Debug\Orar.csprojResolveAssemblyReference.cache
+C:\Users\redxvenom\source\repos\Orar\Orar\obj\Debug\Orar.Form1.resources
+C:\Users\redxvenom\source\repos\Orar\Orar\obj\Debug\Orar.Properties.Resources.resources
+C:\Users\redxvenom\source\repos\Orar\Orar\obj\Debug\Orar.csproj.GenerateResource.Cache
+C:\Users\redxvenom\source\repos\Orar\Orar\obj\Debug\Orar.csproj.CoreCompileInputs.cache
+C:\Users\redxvenom\source\repos\Orar\Orar\obj\Debug\Orar.exe
+C:\Users\redxvenom\source\repos\Orar\Orar\obj\Debug\Orar.pdb
+C:\Users\redxvenom\source\repos\Orar\Orar\obj\Debug\Orar.form_Professors.resources
+C:\Users\redxvenom\source\repos\Orar\Orar\obj\Debug\Orar.form_EditProfessors.resources
+C:\Users\redxvenom\source\repos\Orar\Orar\obj\Debug\Orar.form_AddProfesor.resources
+C:\Users\redxvenom\source\repos\Orar\Orar\obj\Debug\Orar.form_Classrooms.resources
+C:\Users\redxvenom\source\repos\Orar\Orar\obj\Debug\Orar.form_AddClassroom.resources
+C:\Users\redxvenom\source\repos\Orar\Orar\obj\Debug\Orar.form_AddStudents.resources
+C:\Users\redxvenom\source\repos\Orar\Orar\obj\Debug\Orar.form_Students.resources
+C:\Users\redxvenom\source\repos\Orar\Orar\obj\Debug\Orar.form_AddUser.resources
+C:\Users\redxvenom\source\repos\Orar\Orar\obj\Debug\Orar.form_ShowClasses.resources
+C:\Users\redxvenom\source\repos\Orar\Orar\obj\Debug\Orar.form_Groups.resources
+C:\Users\redxvenom\source\repos\Orar\Orar\obj\Debug\Orar.form_ViewGroupClasses.resources
+C:\Users\redxvenom\source\repos\Orar\Orar\obj\Debug\Orar.form_ViewGroupStudents.resources
+C:\Users\redxvenom\source\repos\Orar\Orar\obj\Debug\Orar.form_Timetable.resources
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\bin\Debug\Orar.exe.config
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\bin\Debug\Orar.exe
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\bin\Debug\Orar.pdb
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\obj\Debug\Orar.csprojResolveAssemblyReference.cache
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\obj\Debug\Orar.form_AddClassroom.resources
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\obj\Debug\Orar.form_Classrooms.resources
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\obj\Debug\Orar.Form1.resources
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\obj\Debug\Orar.form_AddUser.resources
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\obj\Debug\Orar.form_Timetable.resources
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\obj\Debug\Orar.form_Groups.resources
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\obj\Debug\Orar.form_ShowClasses.resources
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\obj\Debug\Orar.form_ViewGroupClasses.resources
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\obj\Debug\Orar.form_ViewGroupStudents.resources
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\obj\Debug\Orar.form_AddProfesor.resources
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\obj\Debug\Orar.form_EditProfessors.resources
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\obj\Debug\Orar.form_Professors.resources
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\obj\Debug\Orar.Properties.Resources.resources
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\obj\Debug\Orar.form_AddStudents.resources
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\obj\Debug\Orar.form_Students.resources
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\obj\Debug\Orar.csproj.GenerateResource.Cache
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\obj\Debug\Orar.csproj.CoreCompileInputs.cache
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\obj\Debug\Orar.exe
+C:\Users\prejb\Desktop\ProiectBD (1)\ProiectBD\Orar\Orar\obj\Debug\Orar.pdb

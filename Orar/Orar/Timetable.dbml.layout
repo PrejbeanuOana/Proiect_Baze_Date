@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Timetable">
+  <DataContextMoniker Name="/TimetableDataContext" />
+  <nestedChildShapes>
+    <classShape Id="d7f6ad3b-a305-44a4-b1e5-e51722bb0859" absoluteBounds="2.625, 0.625, 2, 1.3862939453125">
+      <DataClassMoniker Name="/TimetableDataContext/Attend" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fe206a35-3886-4360-80a2-8e6a21af7b08" absoluteBounds="2.64, 1.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="65fb6e91-8377-47f5-b7c3-0a3ddd60cbd9" absoluteBounds="0.5, 2.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/TimetableDataContext/Class" />
+      <nestedChildShapes>
+        <elementListCompartment Id="39ce6285-de51-4068-a97f-18babd6ef907" absoluteBounds="0.51500000000000012, 3.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.5 : 2.75); (1.5 : 1.31814697265625); (2.625 : 1.31814697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TimetableDataContext/Class/Class_Attend" />
+      <nodes>
+        <classShapeMoniker Id="65fb6e91-8377-47f5-b7c3-0a3ddd60cbd9" />
+        <classShapeMoniker Id="d7f6ad3b-a305-44a4-b1e5-e51722bb0859" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="625cfb2d-384f-4b24-86cf-42c099028370" absoluteBounds="3.25, 2.875, 2, 1.3862939453125">
+      <DataClassMoniker Name="/TimetableDataContext/ClassRoom" />
+      <nestedChildShapes>
+        <elementListCompartment Id="77f8da6f-be7f-4d3d-8a1d-0ed4f0418181" absoluteBounds="3.2649999999999997, 3.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="97fa7332-6fb5-4f71-99e5-7b43484b4353" absoluteBounds="6.125, 4.375, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/TimetableDataContext/Group" />
+      <nestedChildShapes>
+        <elementListCompartment Id="adbbc5da-862c-4380-b5bd-30903f5f87f3" absoluteBounds="6.14, 4.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(7.90625 : 4.375); (7.90625 : 1.31814697265625); (4.625 : 1.31814697265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TimetableDataContext/Group/Group_Attend" />
+      <nodes>
+        <classShapeMoniker Id="97fa7332-6fb5-4f71-99e5-7b43484b4353" />
+        <classShapeMoniker Id="d7f6ad3b-a305-44a4-b1e5-e51722bb0859" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="6cda994f-00d7-41a7-a268-323e6effa16d" absoluteBounds="3.375, 4.625, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/TimetableDataContext/Professor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8ecad6de-bf18-4b63-aa33-cf59df7e3926" absoluteBounds="3.39, 5.085, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.375 : 5.70274983723958); (1.5 : 5.70274983723958); (1.5 : 4.32859537760417)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TimetableDataContext/Professor/Professor_Class" />
+      <nodes>
+        <classShapeMoniker Id="6cda994f-00d7-41a7-a268-323e6effa16d" />
+        <classShapeMoniker Id="65fb6e91-8377-47f5-b7c3-0a3ddd60cbd9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.375 : 5.38544840494792); (6.125 : 5.38544840494792)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TimetableDataContext/Professor/Professor_Group" />
+      <nodes>
+        <classShapeMoniker Id="6cda994f-00d7-41a7-a268-323e6effa16d" />
+        <classShapeMoniker Id="97fa7332-6fb5-4f71-99e5-7b43484b4353" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="1f65c8aa-dc76-48c3-b26e-42490640532c" absoluteBounds="5.625, 2.25, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/TimetableDataContext/Student" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7e30f289-6a5e-4acf-b0b7-9bcf6ec17470" absoluteBounds="5.64, 2.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(6.875 : 4.375); (6.875 : 4.02089680989583)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TimetableDataContext/Group/Group_Student" />
+      <nodes>
+        <classShapeMoniker Id="97fa7332-6fb5-4f71-99e5-7b43484b4353" />
+        <classShapeMoniker Id="1f65c8aa-dc76-48c3-b26e-42490640532c" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="e6cb876f-88fb-4a57-840d-46929a9722a4" absoluteBounds="8.75, 2.375, 2, 1.3862939453125">
+      <DataClassMoniker Name="/TimetableDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0fc3778b-47d1-4b7b-9eb4-37fc9402db72" absoluteBounds="8.765, 2.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
